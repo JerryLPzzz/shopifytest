@@ -1,2 +1,1 @@
-# shopifytest
-# 123455555566666
+# Shopify Theme Development
